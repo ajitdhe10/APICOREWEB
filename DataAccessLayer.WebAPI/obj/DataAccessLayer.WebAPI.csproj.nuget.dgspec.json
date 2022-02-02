@@ -1,0 +1,212 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\OS HRS LP 7\\Downloads\\ReactWebAPI\\ReactWebAPI\\DataAccessLayer.WebAPI\\DataAccessLayer.WebAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\OS HRS LP 7\\Downloads\\ReactWebAPI\\ReactWebAPI\\CommonLibrary.WebAPI\\CommonLibrary.WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\OS HRS LP 7\\Downloads\\ReactWebAPI\\ReactWebAPI\\CommonLibrary.WebAPI\\CommonLibrary.WebAPI.csproj",
+        "projectName": "CommonLibrary.WebAPI",
+        "projectPath": "C:\\Users\\OS HRS LP 7\\Downloads\\ReactWebAPI\\ReactWebAPI\\CommonLibrary.WebAPI\\CommonLibrary.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\OS HRS LP 7\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\OS HRS LP 7\\Downloads\\ReactWebAPI\\ReactWebAPI\\CommonLibrary.WebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\OS HRS LP 7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.15.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\OS HRS LP 7\\Downloads\\ReactWebAPI\\ReactWebAPI\\DataAccessLayer.WebAPI\\DataAccessLayer.WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\OS HRS LP 7\\Downloads\\ReactWebAPI\\ReactWebAPI\\DataAccessLayer.WebAPI\\DataAccessLayer.WebAPI.csproj",
+        "projectName": "DataAccessLayer.WebAPI",
+        "projectPath": "C:\\Users\\OS HRS LP 7\\Downloads\\ReactWebAPI\\ReactWebAPI\\DataAccessLayer.WebAPI\\DataAccessLayer.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\OS HRS LP 7\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\OS HRS LP 7\\Downloads\\ReactWebAPI\\ReactWebAPI\\DataAccessLayer.WebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\OS HRS LP 7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\OS HRS LP 7\\Downloads\\ReactWebAPI\\ReactWebAPI\\CommonLibrary.WebAPI\\CommonLibrary.WebAPI.csproj": {
+                "projectPath": "C:\\Users\\OS HRS LP 7\\Downloads\\ReactWebAPI\\ReactWebAPI\\CommonLibrary.WebAPI\\CommonLibrary.WebAPI.csproj"
+              },
+              "C:\\Users\\OS HRS LP 7\\Downloads\\ReactWebAPI\\ReactWebAPI\\Model.WebAPI\\Model.WebAPI.csproj": {
+                "projectPath": "C:\\Users\\OS HRS LP 7\\Downloads\\ReactWebAPI\\ReactWebAPI\\Model.WebAPI\\Model.WebAPI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\OS HRS LP 7\\Downloads\\ReactWebAPI\\ReactWebAPI\\Model.WebAPI\\Model.WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\OS HRS LP 7\\Downloads\\ReactWebAPI\\ReactWebAPI\\Model.WebAPI\\Model.WebAPI.csproj",
+        "projectName": "Model.WebAPI",
+        "projectPath": "C:\\Users\\OS HRS LP 7\\Downloads\\ReactWebAPI\\ReactWebAPI\\Model.WebAPI\\Model.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\OS HRS LP 7\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\OS HRS LP 7\\Downloads\\ReactWebAPI\\ReactWebAPI\\Model.WebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\OS HRS LP 7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

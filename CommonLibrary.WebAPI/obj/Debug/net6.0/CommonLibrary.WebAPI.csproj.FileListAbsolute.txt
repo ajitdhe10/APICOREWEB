@@ -1,0 +1,23 @@
+D:\amit\Temp Projects\ReactWebAPI\CommonLibrary.WebAPI\bin\Debug\net6.0\CommonLibrary.WebAPI.deps.json
+D:\amit\Temp Projects\ReactWebAPI\CommonLibrary.WebAPI\bin\Debug\net6.0\CommonLibrary.WebAPI.dll
+D:\amit\Temp Projects\ReactWebAPI\CommonLibrary.WebAPI\bin\Debug\net6.0\ref\CommonLibrary.WebAPI.dll
+D:\amit\Temp Projects\ReactWebAPI\CommonLibrary.WebAPI\bin\Debug\net6.0\CommonLibrary.WebAPI.pdb
+D:\amit\Temp Projects\ReactWebAPI\CommonLibrary.WebAPI\obj\Debug\net6.0\CommonLibrary.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\amit\Temp Projects\ReactWebAPI\CommonLibrary.WebAPI\obj\Debug\net6.0\CommonLibrary.WebAPI.AssemblyInfoInputs.cache
+D:\amit\Temp Projects\ReactWebAPI\CommonLibrary.WebAPI\obj\Debug\net6.0\CommonLibrary.WebAPI.AssemblyInfo.cs
+D:\amit\Temp Projects\ReactWebAPI\CommonLibrary.WebAPI\obj\Debug\net6.0\CommonLibrary.WebAPI.csproj.CoreCompileInputs.cache
+D:\amit\Temp Projects\ReactWebAPI\CommonLibrary.WebAPI\obj\Debug\net6.0\CommonLibrary.WebAPI.dll
+D:\amit\Temp Projects\ReactWebAPI\CommonLibrary.WebAPI\obj\Debug\net6.0\ref\CommonLibrary.WebAPI.dll
+D:\amit\Temp Projects\ReactWebAPI\CommonLibrary.WebAPI\obj\Debug\net6.0\CommonLibrary.WebAPI.pdb
+C:\Users\OS HRS LP 7\Downloads\ReactWebAPI\ReactWebAPI\CommonLibrary.WebAPI\bin\Debug\net6.0\CommonLibrary.WebAPI.deps.json
+C:\Users\OS HRS LP 7\Downloads\ReactWebAPI\ReactWebAPI\CommonLibrary.WebAPI\bin\Debug\net6.0\CommonLibrary.WebAPI.dll
+C:\Users\OS HRS LP 7\Downloads\ReactWebAPI\ReactWebAPI\CommonLibrary.WebAPI\bin\Debug\net6.0\ref\CommonLibrary.WebAPI.dll
+C:\Users\OS HRS LP 7\Downloads\ReactWebAPI\ReactWebAPI\CommonLibrary.WebAPI\bin\Debug\net6.0\CommonLibrary.WebAPI.pdb
+C:\Users\OS HRS LP 7\Downloads\ReactWebAPI\ReactWebAPI\CommonLibrary.WebAPI\obj\Debug\net6.0\CommonLibrary.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OS HRS LP 7\Downloads\ReactWebAPI\ReactWebAPI\CommonLibrary.WebAPI\obj\Debug\net6.0\CommonLibrary.WebAPI.AssemblyInfoInputs.cache
+C:\Users\OS HRS LP 7\Downloads\ReactWebAPI\ReactWebAPI\CommonLibrary.WebAPI\obj\Debug\net6.0\CommonLibrary.WebAPI.AssemblyInfo.cs
+C:\Users\OS HRS LP 7\Downloads\ReactWebAPI\ReactWebAPI\CommonLibrary.WebAPI\obj\Debug\net6.0\CommonLibrary.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\OS HRS LP 7\Downloads\ReactWebAPI\ReactWebAPI\CommonLibrary.WebAPI\obj\Debug\net6.0\CommonLibrary.WebAPI.dll
+C:\Users\OS HRS LP 7\Downloads\ReactWebAPI\ReactWebAPI\CommonLibrary.WebAPI\obj\Debug\net6.0\ref\CommonLibrary.WebAPI.dll
+C:\Users\OS HRS LP 7\Downloads\ReactWebAPI\ReactWebAPI\CommonLibrary.WebAPI\obj\Debug\net6.0\CommonLibrary.WebAPI.pdb
+C:\Users\OS HRS LP 7\Downloads\ReactWebAPI\ReactWebAPI\CommonLibrary.WebAPI\obj\Debug\net6.0\CommonLibrary.WebAPI.csproj.AssemblyReference.cache
