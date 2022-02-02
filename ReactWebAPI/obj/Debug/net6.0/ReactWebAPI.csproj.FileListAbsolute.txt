@@ -1,0 +1,53 @@
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\bin\Debug\net6.0\spa.proxy.json
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\bin\Debug\net6.0\appsettings.json
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\bin\Debug\net6.0\ReactWebAPI.exe
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\bin\Debug\net6.0\ReactWebAPI.deps.json
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\bin\Debug\net6.0\ReactWebAPI.runtimeconfig.json
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\bin\Debug\net6.0\ReactWebAPI.dll
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\bin\Debug\net6.0\ref\ReactWebAPI.dll
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\bin\Debug\net6.0\ReactWebAPI.pdb
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.SpaProxy.dll
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\bin\Debug\net6.0\CommonLibrary.WebAPI.dll
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\bin\Debug\net6.0\DataAccessLayer.WebAPI.dll
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\bin\Debug\net6.0\Model.WebAPI.dll
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\bin\Debug\net6.0\DataAccessLayer.WebAPI.pdb
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\bin\Debug\net6.0\Model.WebAPI.pdb
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\bin\Debug\net6.0\CommonLibrary.WebAPI.pdb
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\obj\Debug\net6.0\ReactWebAPI.csproj.AssemblyReference.cache
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\obj\Debug\net6.0\spa.proxy.json
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\obj\Debug\net6.0\ReactWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\obj\Debug\net6.0\ReactWebAPI.AssemblyInfoInputs.cache
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\obj\Debug\net6.0\ReactWebAPI.AssemblyInfo.cs
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\obj\Debug\net6.0\ReactWebAPI.csproj.CoreCompileInputs.cache
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\obj\Debug\net6.0\ReactWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\obj\Debug\net6.0\ReactWebAPI.RazorAssemblyInfo.cache
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\obj\Debug\net6.0\ReactWebAPI.RazorAssemblyInfo.cs
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\obj\Debug\net6.0\scopedcss\bundle\ReactWebAPI.styles.css
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\obj\Debug\net6.0\ReactWebAPI.csproj.CopyComplete
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\obj\Debug\net6.0\ReactWebAPI.dll
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\obj\Debug\net6.0\ref\ReactWebAPI.dll
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\obj\Debug\net6.0\ReactWebAPI.pdb
+D:\amit\Temp Projects\ReactWebAPI\ReactWebAPI\obj\Debug\net6.0\ReactWebAPI.genruntimeconfig.cache
+C:\Users\OS HRS LP 7\Downloads\ReactWebAPI\ReactWebAPI\ReactWebAPI\obj\Debug\net6.0\ReactWebAPI.csproj.AssemblyReference.cache
+C:\Users\OS HRS LP 7\Downloads\ReactWebAPI\ReactWebAPI\ReactWebAPI\obj\Debug\net6.0\spa.proxy.json
+C:\Users\OS HRS LP 7\Downloads\ReactWebAPI\ReactWebAPI\ReactWebAPI\obj\Debug\net6.0\ReactWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OS HRS LP 7\Downloads\ReactWebAPI\ReactWebAPI\ReactWebAPI\obj\Debug\net6.0\ReactWebAPI.AssemblyInfoInputs.cache
+C:\Users\OS HRS LP 7\Downloads\ReactWebAPI\ReactWebAPI\ReactWebAPI\obj\Debug\net6.0\ReactWebAPI.AssemblyInfo.cs
+C:\Users\OS HRS LP 7\Downloads\ReactWebAPI\ReactWebAPI\ReactWebAPI\obj\Debug\net6.0\ReactWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\OS HRS LP 7\Downloads\ReactWebAPI\ReactWebAPI\ReactWebAPI\obj\Debug\net6.0\ReactWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OS HRS LP 7\Downloads\ReactWebAPI\ReactWebAPI\ReactWebAPI\obj\Debug\net6.0\ReactWebAPI.RazorAssemblyInfo.cache
+C:\Users\OS HRS LP 7\Downloads\ReactWebAPI\ReactWebAPI\ReactWebAPI\obj\Debug\net6.0\ReactWebAPI.RazorAssemblyInfo.cs
